@@ -193,3 +193,7 @@ Prem Yelwande
 2nd Year B.Tech Student | AI/ML & Data Science Enthusiast
 GitHub: https://github.com/NiceHighGuy
 
+## 📸 Project Preview
+
+<img width="517" height="843" alt="image" src="https://github.com/user-attachments/assets/4e09a2aa-ccc9-48be-874e-5e813033c544" />
+
